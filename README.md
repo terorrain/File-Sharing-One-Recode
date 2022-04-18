@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@Stinkyproject ](https://www.telegram.dog/Stinkyrz)**
+**If you need any more modes in repo or If you find out any bugs,**
 
 ### Features
 - Fully customisable.
